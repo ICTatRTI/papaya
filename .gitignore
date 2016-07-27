@@ -16,3 +16,10 @@ node_modules
 # app builds
 www/*
 !www/assets
+npm-debug.log
+
+.idea
+
+
+npm-debug.log
+
