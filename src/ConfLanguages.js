@@ -14,6 +14,7 @@ Conf.add([
     require("ConfSO"), // Somali
     require("ConfTG"), // Tigrigna
     require("ConfWT"), // Wlayittatto
+    require("ConfEN"), // English
 ]);
 
 module.exports = Conf;
