@@ -39,7 +39,7 @@ var Router = Backbone.Router.extend({
         this.recorderView.setElement("#recorder").render();
 
         // Soundboard
-        this.soundboard = new SoundboardView();
+        this.soundboard = new SoundboardView({language:firstLanguage});
         this.soundboard.setElement("#soundboard").render();
 
         // acknowledgement overlay

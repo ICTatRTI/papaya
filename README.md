@@ -35,3 +35,21 @@ These three variables will match up with the configuration defined in your `Conf
 Installing them both is recommended and easy.
 
     npm -g install jshint js-beautify 
+    
+## Starting the app
+
+    npm run gulp
+    
+## Resolving issues
+
+Fork the repository and update your fork
+
+    git remote show ICTatRTI
+    git checkout master
+    git pull ICTatRTI master
+
+Get the id of the issue you’re fixing
+
+    git checkout -b 189-footer-disappeared
+
+Fix the bug and commit the change. Submit a pull request.
