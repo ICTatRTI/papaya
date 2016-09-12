@@ -16,11 +16,20 @@ After installing the postinstall script will run, initializing the Cordova platf
 
 ## Configuration
 
-### Languages
+## Languages
 
 The sounds directory contains all of your sounds. They should be named like so `LANGUAGE_CODE`_`PHONEME`.mp3
 
 These three variables will match up with the configuration defined in your `Conf` object in `src/Conf.js`.
+
+
+Put all new sound files in the processedfolder. They should be named as described above. 
+
+Create the file .\src\ConfLANGUAFE_CODE.js, e.g. ConfEN.js   
+In this file add your lanague code and label. 
+Then put in your  table indeces, or leave empty to use the defautl grid. Also create the sound file to phoneme mappings.
+
+Add the language to the ConfLangaues file, e.g. require("ConfEN"), // English
 
 ## Cordova hooks
 
