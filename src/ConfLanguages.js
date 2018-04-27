@@ -7,10 +7,10 @@
 var Conf = new(require("Conf"))();
 
 Conf.add([
-    require("ConfLG"), // Luganda
-    require("ConfNYN"), // Runyankole-Rukiga
-    require("ConfNYO"), // Runyoro-Rutooro
-    require("ConfEN"), // English
+    require("ConfEF"), // English female
+    require("ConfEM"), // English male
+    require("ConfKF"), // Swahili female
+    require("ConfKM"), // Swahili male
 ]);
 
 module.exports = Conf;
