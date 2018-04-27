@@ -1,0 +1,51 @@
+/* Generated config file */
+
+module.exports = {
+  "label": "Lhükonzo",
+  "code": "lk",
+  "layout": {
+    "style": "table"
+  },
+  "phonemes": [
+{'id': 1,'label': 'Intro', 'key': 'Intro'}, 
+{'id': 2,'label': 'Aa', 'key': 'Aa'}, 
+{'id': 3,'label': 'Bb', 'key': 'Bb'}, 
+{'id': 4,'label': 'BBbb', 'key': 'BBbb'}, 
+{'id': 5,'label': 'Dd', 'key': 'Dd'}, 
+{'id': 6,'label': 'Ee', 'key': 'Ee'}, 
+{'id': 7,'label': 'Ff', 'key': 'Ff'}, 
+{'id': 8,'label': 'Gg', 'key': 'Gg'}, 
+{'id': 9,'label': 'Ghgh', 'key': 'Ghgh'}, 
+{'id': 10,'label': 'Gygy', 'key': 'Gygy'}, 
+{'id': 11,'label': 'Hh', 'key': 'Hh'}, 
+{'id': 12,'label': 'Ii', 'key': 'Ii'}, 
+{'id': 13,'label': 'Ïï', 'key': 'Ïï'}, 
+{'id': 14,'label': 'Kk', 'key': 'Kk'}, 
+{'id': 15,'label': 'Kyky', 'key': 'Kyky'}, 
+{'id': 16,'label': 'Ll', 'key': 'Ll'}, 
+{'id': 17,'label': 'Lhlh', 'key': 'Lhlh'}, 
+{'id': 18,'label': 'Mm', 'key': 'Mm'}, 
+{'id': 19,'label': 'Mbmb', 'key': 'Mbmb'}, 
+{'id': 20,'label': 'Nn', 'key': 'Nn'}, 
+{'id': 21,'label': 'Ndnd', 'key': 'Ndnd'}, 
+{'id': 22,'label': 'Ngng', 'key': 'Ngng'}, 
+{'id': 23,'label': 'Ngy', 'key': 'Ngy'}, 
+{'id': 24,'label': 'Ntnt', 'key': 'Ntnt'}, 
+{'id': 25,'label': 'Nyny', 'key': 'Nyny'}, 
+{'id': 26,'label': 'Nznz', 'key': 'Nznz'}, 
+{'id': 27,'label': 'Oo', 'key': 'Oo'}, 
+{'id': 28,'label': 'Pp', 'key': 'Pp'}, 
+{'id': 29,'label': 'Rr', 'key': 'Rr'}, 
+{'id': 30,'label': 'Ss', 'key': 'Ss'}, 
+{'id': 31,'label': 'Tt', 'key': 'Tt'}, 
+{'id': 32,'label': 'Thth', 'key': 'Thth'}, 
+{'id': 33,'label': 'Tsts', 'key': 'Tsts'}, 
+{'id': 34,'label': 'Uu', 'key': 'Uu'}, 
+{'id': 35,'label': 'Üü', 'key': 'Üü'}, 
+{'id': 36,'label': 'Vv', 'key': 'Vv'}, 
+{'id': 37,'label': 'Ww', 'key': 'Ww'}, 
+{'id': 38,'label': 'Yy', 'key': 'Yy'}, 
+{'id': 39,'label': 'Zz', 'key': 'Zz'}, 
+{'id': 40,'label': 'Outro', 'key': 'Outro,'}
+]
+};
