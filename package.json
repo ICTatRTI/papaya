@@ -1,7 +1,7 @@
 {
-  "name": "papaya-ethiopia",
+  "name": "papaya-kenya",
   "version": "1.0.0",
-  "description": "A soundboard and recording app for phonemes in different languages.",
+  "description": "Papaya Phonics for Kenya is an educational app for letter sounds in English and Swahili.",
   "main": "www/js/app.js",
   "scripts": {
     "test": "browserify -d tests/index.js > tests/bundle.js && mocha tests/bundle.js",
@@ -29,7 +29,7 @@
   "homepage": "https://github.com/ICTatRTI/papaya#readme",
   "devDependencies": {
     "chai": "^3.2.0",
-    "cordova": "^5.2.0",
+    "cordova": "^6.3.0",
     "del": "^2.0.2",
     "esformatter": "^0.7.3",
     "gulp": "^3.9.0",
