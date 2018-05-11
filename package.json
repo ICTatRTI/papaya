@@ -1,6 +1,6 @@
 {
   "name": "papaya-ethiopia",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A soundboard and recording app for phonemes in different languages.",
   "main": "www/js/app.js",
   "scripts": {
