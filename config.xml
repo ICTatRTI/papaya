@@ -10,4 +10,5 @@
     <content src="index.html" />
     <icon src="res/icon.png" />
     <access origin="*" />
+    <preference name="AndroidPersistentFileLocation" value="Compatibility" />
 </widget>
