@@ -8,115 +8,231 @@ module.exports = {
   },
   "phonemes": [{
     "id": 1,
-    "label": "Intro",
-    "key": "Intr"
+    "label": "Short",
+    "key": "Short"
   }, {
     "id": 2,
-    "label": "Aa",
-    "key": "Aa"
+    "label": "ɒ",
+    "key": "ɒ"
   }, {
     "id": 3,
-    "label": "Bb",
-    "key": "Bb"
+    "label": "e",
+    "key": "e"
   }, {
     "id": 4,
-    "label": "Cc",
-    "key": "Cc"
+    "label": "æ",
+    "key": "æ"
   }, {
     "id": 5,
-    "label": "Dd",
-    "key": "Dd"
+    "label": "ə",
+    "key": "ə"
   }, {
     "id": 6,
-    "label": "Ee",
-    "key": "Ee"
+    "label": "i",
+    "key": "i"
   }, {
     "id": 7,
-    "label": "Ff",
-    "key": "Ff"
+    "label": "ʊ",
+    "key": "ʊ"
   }, {
     "id": 8,
-    "label": "Gg",
-    "key": "Gg"
+    "label": "ʌ",
+    "key": "ʌ"
+  }, {
+    "id": 8,
+    "label": "",
+    "key": ""
+  }, {
+    "id": 8,
+    "label": "",
+    "key": ""
+  }, {
+    "id": 8,
+    "label": "",
+    "key": ""
+  }, {
+    "id": 8,
+    "label": "",
+    "key": ""
   }, {
     "id": 9,
-    "label": "Hh",
-    "key": "Hh"
+    "label": "Long",
+    "key": "Long"
   }, {
     "id": 10,
-    "label": "Ii",
-    "key": "Ii"
+    "label": "aː",
+    "key": "aː"
   }, {
     "id": 11,
-    "label": "Jj",
-    "key": "Jj"
+    "label": "ɜː",
+    "key": "ɜː"
   }, {
     "id": 12,
-    "label": "Kk",
-    "key": "Kk"
+    "label": "iː",
+    "key": "iː"
   }, {
     "id": 13,
-    "label": "Ll",
-    "key": "Ll"
+    "label": "ɔː",
+    "key": "ɔː"
   }, {
     "id": 14,
-    "label": "Mm",
-    "key": "Mm"
+    "label": "uː",
+    "key": "uː"
   }, {
     "id": 15,
-    "label": "Nn",
-    "key": "Nn"
+    "label": "Diphth",
+    "key": "Diphth"
   }, {
     "id": 16,
-    "label": "Oo",
-    "key": "Oo"
+    "label": "ɑi",
+    "key": "ɑi"
   }, {
     "id": 17,
-    "label": "Pp",
-    "key": "Pp"
+    "label": "ɑu",
+    "key": "ɑu"
   }, {
     "id": 18,
-    "label": "Qq",
-    "key": "Qq"
+    "label": "eɑ",
+    "key": "eɑ"
   }, {
     "id": 19,
-    "label": "Rr",
-    "key": "Rr"
+    "label": "ei",
+    "key": "ei"
   }, {
     "id": 20,
-    "label": "Ss",
-    "key": "Ss"
+    "label": "əʊ",
+    "key": "əʊ"
   }, {
     "id": 21,
-    "label": "Tt",
-    "key": "Tt"
+    "label": "iə",
+    "key": "iə"
   }, {
     "id": 22,
-    "label": "Uu",
-    "key": "Uu"
+    "label": "ʊə",
+    "key": "ʊə"
   }, {
     "id": 23,
-    "label": "Vv",
-    "key": "Vv"
+    "label": "ɔɪ",
+    "key": "ɔɪ"
+  }, {
+    "id": 8,
+    "label": "",
+    "key": ""
+  }, {
+    "id": 8,
+    "label": "",
+    "key": ""
+  }, {
+    "id": 8,
+    "label": "",
+    "key": ""
   }, {
     "id": 24,
-    "label": "Ww",
-    "key": "Ww"
+    "label": "Cons",
+    "key": "Cons"
   }, {
     "id": 25,
-    "label": "Xx",
-    "key": "Xx"
+    "label": "b",
+    "key": "b"
   }, {
     "id": 26,
-    "label": "Yy",
-    "key": "Yy"
+    "label": "d",
+    "key": "d"
   }, {
     "id": 27,
-    "label": "Zz",
-    "key": "Zz"
+    "label": "ð",
+    "key": "ð"
   }, {
     "id": 28,
-    "label": "Outro",
-    "key": "Outro"
+    "label": "dʒ",
+    "key": "dʒ"
+  }, {
+    "id": 29,
+    "label": "f",
+    "key": "f"
+  }, {
+    "id": 30,
+    "label": "g",
+    "key": "g"
+  }, {
+    "id": 31,
+    "label": "h",
+    "key": "hð"
+  }, {
+    "id": 32,
+    "label": "i",
+    "key": "i"
+  }, {
+    "id": 33,
+    "label": "k",
+    "key": "k"
+  }, {
+    "id": 34,
+    "label": "ks",
+    "key": "ks"
+  }, {
+    "id": 35,
+    "label": "kw",
+    "key": "kw"
+  }, {
+    "id": 36,
+    "label": "l",
+    "key": "l"
+  }, {
+    "id": 37,
+    "label": "m",
+    "key": "m"
+  }, {
+    "id": 40,
+    "label": "n",
+    "key": "n"
+  }, {
+    "id": 41,
+    "label": "ŋ",
+    "key": "ŋ"
+  }, {
+    "id": 42,
+    "label": "p",
+    "key": "p"
+  }, {
+    "id": 43,
+    "label": "r",
+    "key": "r"
+  }, {
+    "id": 44,
+    "label": "s",
+    "key": "s"
+  }, {
+    "id": 45,
+    "label": "ʃ",
+    "key": "ʃ"
+  }, {
+    "id": 46,
+    "label": "t",
+    "key": "t"
+  }, {
+    "id": 47,
+    "label": "t̬ʃ",
+    "key": "t̬ʃ"
+  }, {
+    "id": 48,
+    "label": "v",
+    "key": "v"
+  }, {
+    "id": 49,
+    "label": "w",
+    "key": "w"
+  }, {
+    "id": 50,
+    "label": "z",
+    "key": "z"
+  }, {
+    "id": 51,
+    "label": "ʒ",
+    "key": "ʒ"
+  }, {
+    "id": 52,
+    "label": "θ",
+    "key": "θ"
   }]
 };
