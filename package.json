@@ -52,7 +52,7 @@
     "backbone": "^1.2.2",
     "browserify": "^11.0.1",
     "handlebars": "^4.0.3",
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.0",
     "jsesc": "^0.5.0",
     "lodash": "^3.10.1"
   }
