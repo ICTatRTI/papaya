@@ -1,0 +1,11 @@
+{
+    "android": {
+        "release": {
+            "keystore": "/Users/lhristov/Documents/keyStore",
+            "storePassword": "mynewpc.12",
+            "keyAlias":"devkey",
+            "password": "mynewpc.12",
+            "keystoreType":"jks"
+        }
+    }
+  }

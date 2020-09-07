@@ -7,13 +7,7 @@
 var Conf = new(require("Conf"))();
 
 Conf.add([
-    require("ConfOR"), // Afan Oromo
-    require("ConfAM"), // Amhara
-    require("ConfHY"), // Hadiyya
-    require("ConfSD"), // Sidaamu Afoo
-    require("ConfSO"), // Somali
-    require("ConfTG"), // Tigrigna
-    require("ConfWT"), // Wlayittatto
+    require("ConfKR")
 ]);
 
 module.exports = Conf;
