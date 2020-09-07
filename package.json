@@ -29,7 +29,7 @@
   "homepage": "https://github.com/ICTatRTI/papaya#readme",
   "devDependencies": {
     "chai": "^3.2.0",
-    "cordova": "^5.2.0",
+    "cordova": "^7.1.0",
     "del": "^2.0.2",
     "esformatter": "^0.7.3",
     "gulp": "^3.9.0",
@@ -51,9 +51,21 @@
   "dependencies": {
     "backbone": "^1.2.2",
     "browserify": "^11.0.1",
+    "cordova-android": "^7.1.4",
+    "cordova-plugin-file": "^6.0.2",
+    "cordova-plugin-media": "^5.0.3",
     "handlebars": "^4.0.3",
     "jquery": "^2.1.4",
     "jsesc": "^0.5.0",
     "lodash": "^3.10.1"
+  },
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-file": {},
+      "cordova-plugin-media": {}
+    }
   }
 }

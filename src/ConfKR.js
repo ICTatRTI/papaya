@@ -29,7 +29,7 @@ module.exports = {
   }, {
     "id": 5,
     "label": "Ё",
-    "key": "Ё"
+    "key": "ie"
   }, {
     "id": 6,
     "label": "Ж",
@@ -45,7 +45,7 @@ module.exports = {
   }, {
     "id": 9,
     "label": "Й",
-    "key": "Й"
+    "key": "ikr"
   }, {
     "id": 10,
     "label": "К",
