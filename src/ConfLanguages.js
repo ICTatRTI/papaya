@@ -7,7 +7,7 @@
 var Conf = new(require("Conf"))();
 
 Conf.add([
-    require("ConfKR")
+    require("ConfRU")
 ]);
 
 module.exports = Conf;

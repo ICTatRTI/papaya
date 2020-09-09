@@ -1,8 +1,8 @@
 /* Generated config file */
 
 module.exports = {
-  "label": "Kyrgyz",
-  "code": "kr",
+  "label": "Russian",
+  "code": "ru",
   "layout": {
     "style": "table"
   },
@@ -15,15 +15,19 @@ module.exports = {
     "label": "Б",
     "key": "Б"
   }, {
-    "id": 2,
+      "id": 2,
+      "label": "В",
+      "key": "В"
+    }, {
+    "id": 3,
     "label": "Г",
     "key": "Г"
   }, {
-    "id": 3,
+    "id": 4,
     "label": "Д",
     "key": "Д"
   }, {
-    "id": 4,
+    "id": 5,
     "label": "Е",
     "key": "Е"
   }, {
