@@ -1,6 +1,6 @@
 {
   "name": "Kyrgyz-Sounds",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A soundboard and recording app for phonemes in different languages.",
   "main": "www/js/app.js",
   "scripts": {
@@ -8,7 +8,11 @@
     "gulp": "gulp",
     "postinstall": "./postinstall.sh",
     "debug": "./debug.sh",
-    "makeconfig": "./makeconfig.js"
+    "makeconfig": "./makeconfig.js",
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "resolutions": {
+    "graceful-fs": "^4.2.4"
   },
   "repository": {
     "type": "git",
@@ -32,7 +36,7 @@
     "cordova": "^7.1.0",
     "del": "^2.0.2",
     "esformatter": "^0.7.3",
-    "gulp": "^3.9.0",
+    "gulp": "^3.9.1",
     "gulp-concat": "^2.6.0",
     "gulp-connect": "^2.2.0",
     "gulp-file-insert": "^1.0.2",
