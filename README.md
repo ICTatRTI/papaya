@@ -1,16 +1,29 @@
 # Papaya Ethiopia
 
+## Prerequisite
+
+    Android SDK installed and ANDROID_HOME or ANDROID_SDK_ROOT set
+        for example: 
+        sdkmanager --list   to see all 
+        install platform 30
+        /opt/homebrew/bin/sdkmanager  --install "platforms;android-30"
+        install build tools 30
+        /opt/homebrew/bin/sdkmanager --install "build-tools;30.0.3"  
+
+    Java 1.8 installed and JAVA_HOME set
+        
+
 ## installation
 
+   You may have to uninstall Gulp if you have it installed with -g
    npm install
 
 After installing the postinstall script will run, initializing the Cordova platform and plugins directory.
 
 ## scripts
 
-   npm run test              # Runs mocha test scripts
+  
    npm run build             #
-   npm run release           # Builds Papaya project with release
    npm run gulp build:sounds # changes filenames to comply with Android's file system
    npm run gulp              # starts gulp and listens for changes
 

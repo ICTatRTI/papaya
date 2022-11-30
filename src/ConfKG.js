@@ -15,10 +15,10 @@ module.exports = {
     "label": "Бб",
     "key": "Бб"
   }, {
-      "id": 2,
-      "label": "Вв",
-      "key": "Вв"
-    }, {
+    "id": 2,
+    "label": "Вв",
+    "key": "Вв"
+  }, {
     "id": 3,
     "label": "Гг",
     "key": "Гг"
@@ -98,7 +98,7 @@ module.exports = {
     "id": 21,
     "label": "Уу",
     "key": "Уу"
-  },  {
+  }, {
     "id": 23,
     "label": "Үү",
     "key": "Үү"
@@ -130,7 +130,7 @@ module.exports = {
     "id": 30,
     "label": "Ьь",
     "key": "Ьь"
-  },  {
+  }, {
     "id": 31,
     "label": "Ыы",
     "key": "Ыы"

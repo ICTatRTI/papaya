@@ -15,10 +15,10 @@ module.exports = {
     "label": "Б",
     "key": "Б"
   }, {
-      "id": 2,
-      "label": "В",
-      "key": "В"
-    }, {
+    "id": 2,
+    "label": "В",
+    "key": "В"
+  }, {
     "id": 3,
     "label": "Г",
     "key": "Г"

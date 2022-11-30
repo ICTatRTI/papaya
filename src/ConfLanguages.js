@@ -7,10 +7,7 @@
 var Conf = new(require("Conf"))();
 
 Conf.add([
-    require("ConfKG")
-]);
-
-Conf.add([
+    require("ConfKG"),
     require("ConfRU")
 ]);
 

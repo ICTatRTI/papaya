@@ -1,6 +1,6 @@
 {
   "name": "Kyrgyz-Sounds",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A soundboard and recording app for phonemes in different languages.",
   "main": "www/js/app.js",
   "scripts": {
@@ -9,7 +9,7 @@
     "postinstall": "./postinstall.sh",
     "debug": "./debug.sh",
     "makeconfig": "./makeconfig.js",
-    "preinstall": "npx npm-force-resolutions"
+    "preinstall": "npm install gulp && npx npm-force-resolutions"
   },
   "resolutions": {
     "graceful-fs": "^4.2.4"
@@ -55,7 +55,7 @@
   "dependencies": {
     "backbone": "^1.2.2",
     "browserify": "^11.0.1",
-    "cordova-android": "^7.1.4",
+    "cordova-android": "^10.1.2",
     "cordova-plugin-file": "^6.0.2",
     "cordova-plugin-media": "^5.0.3",
     "handlebars": "^4.0.3",
